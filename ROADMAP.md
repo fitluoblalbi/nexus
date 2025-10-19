@@ -1,5 +1,3 @@
-# nexus-lite-mvp
-AI-powered gig marketplace MVP
 # 🚀 LET'S GO! BUILDING NEXUS LITE MVP NOW
 
 ---
